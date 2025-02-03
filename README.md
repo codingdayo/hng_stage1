@@ -21,7 +21,7 @@
    If the number is Armstrong, `"armstrong"` is added to the properties list followed by `"odd"` or `"even"` (based on the number’s parity). Otherwise, only the parity is added.
 
 4. **Fun Fact:**  
-  Fetches a fun fact about the number from [Numbers API](http://numbersapi.com/#42).
+  Fetches a fun fact about the number from the api:- http://numbersapi.com/#42
 
 - **CORS Enabled:** The API allows cross-origin requests from any domain.
 
